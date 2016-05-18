@@ -8,4 +8,3 @@ today
 
 hello you
 
-git tracks changes
